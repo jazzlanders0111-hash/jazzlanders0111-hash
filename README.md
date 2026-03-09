@@ -164,6 +164,7 @@ Working through all 8 case studies from Danny Ma's #8WeekSQLChallenge in Postgre
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-gambe-615209391/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jazzlanders0111@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@jazzlanders0111-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jazzlanders0111)
 
 *Open to remote Data Analyst roles. Any timezone flexible.*
 
