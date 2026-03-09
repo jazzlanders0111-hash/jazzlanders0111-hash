@@ -40,19 +40,17 @@ jazz = {
 
 I've been wired this way longer than I've had the vocabulary for it.
 
-Before analytics was a career path I knew existed, I was already doing it — obsessing over player stats, optimizing rosters, running mental simulations on decisions before committing. Any system I was in, I'd break it down: what are the inputs, what moves the output, what's the highest-leverage thing to do right now. That instinct didn't come from a course. It was just how I processed the world.
+Before analytics was a career path I knew existed, I was already doing it — obsessing over player/team stats in any sports, optimizing my situations, running mental simulations on decisions before committing. Any system I was in, I'd break it down: what are the inputs, what moves the output, what's the highest-leverage thing to do right now. That instinct didn't come from a course. It was just how I processed the world.
 
-It carried into how I approach competitive problems too. I study the situation before acting — what's the counter, what are the tradeoffs, what does the macro picture look like versus what needs to happen in the next thirty seconds. I review what went wrong after the fact, not to dwell on it, but to close the gap. And I've always gravitated toward the role that makes the team work — the one that absorbs pressure, creates space, and measures success by whether the outcome was right, not whether I was the most visible person in the result.
+It carried into how I approach competitive problems too especially in any kind of games. I study the situation before acting — what's the counter, what are the tradeoffs, what does the macro picture look like versus what needs to happen in the next thirty seconds. I review what went wrong after the fact, not to dwell on it, but to close the gap. And I've always gravitated toward the role that makes the team work — the one that absorbs pressure, creates space, and measures success by whether the outcome was right, not whether I was the most visible person in the result.
 
-Professionally, I'm a **Licensed Professional Teacher (LPT)** in the Philippines — board exam certified, Major in English. The LPT isn't a soft credential. It's a national standard that means my communication skills were tested in front of real people who needed to actually understand, not just nod along. Years of making genuinely complex material land for any audience. That's the part most analysts skip, and the part I've been building since before I knew analytics was the job.
+Professionally, I'm a **Licensed Professional Teacher (LPT)** in the Philippines — board exam certified, Major in English. The LPT isn't a soft credential. It's a national standard that means my communication skills were tested in front of real people who needed to actually understand, not just nod along. Years of translating complicated material into something any audience could actually understand and use. That's the part most analysts skip, and the part I've been building since before I knew analytics was the job.
 
-One end-to-end project shipped. More in progress. Still learning. Always curious.
+One end-to-end project shipped. More in progress. The learning doesn't stop, that part never left from teaching. Always curious.
 
 ---
 
 ## 🛠️ Tech Stack
-
-> *Verified from project notebooks — every tool listed was actively used.*
 
 **Languages & Querying**
 
