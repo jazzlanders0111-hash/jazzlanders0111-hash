@@ -18,7 +18,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Justine_Gambe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-gambe-615209391/)
-[![GitHub](https://img.shields.io/badge/GitHub-jazzlanders0111--hash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jazzlanders0111-hash)
+[![Twitter](https://img.shields.io/badge/Twitter-@jazzlanders0111-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jazzlanders0111)
 [![Email](https://img.shields.io/badge/Email-jazzlanders0111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jazzlanders0111@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-00B37E?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
