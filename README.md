@@ -1,47 +1,22 @@
 <!--
 =============================================================
-  GITHUB PROFILE README v3 — Justine "Jazz" Gambe
+  GITHUB PROFILE README v4 — Justine "Jazz" Gambe
   Repository: jazzlanders0111-hash/jazzlanders0111-hash
 =============================================================
 -->
 
 <div align="center">
 
-<!-- BANNER — white-to-black gradient, waving type -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:d0d0d0,70:606060,100:0d0d0d&height=220&section=header&text=Justine%20%22Jazz%22%20Gambe&fontSize=44&fontColor=0d0d0d&fontAlignY=36&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Licensed%20Professional%20Teacher&descAlignY=56&descSize=16&descColor=2a2a2a&animation=fadeIn" width="100%"/>
+<!-- BANNER — deep slate gradient, readable on any GitHub theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e293b,70:334155,100:475569&height=220&section=header&text=Justine%20%22Jazz%22%20Gambe&fontSize=44&fontColor=f1f5f9&fontAlignY=36&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Licensed%20Professional%20Teacher&descAlignY=56&descSize=16&descColor=cbd5e1&animation=fadeIn" width="100%"/>
 
-<!--
-  ══════════════════════════════════════════════════════════
-  ALTERNATIVE BANNER OPTIONS (no third-party dependency):
-
-  Option A — Upload your own image to the repo:
-    1. Add any banner image to assets/banner.png in your repo
-    2. Replace the <img> above with:
-       <img src="./assets/banner.png" width="100%" alt="banner"/>
-
-  Option B — Custom SVG (full control, no service):
-    Create a banner.svg file in your repo with any gradient,
-    text, and shapes you want — no external service needed.
-
-  Option C — github-profile-3d-contrib
-    Generates an animated 3D contribution graph you can use
-    as a banner. Setup: https://github.com/yoshi389111/github-profile-3d-contrib
-
-  Capsule-render color reference:
-    White to black  → color=0:ffffff,100:000000
-    Black to white  → color=0:000000,100:ffffff
-    White to dark   → color=0:ffffff,40:d0d0d0,70:606060,100:0d0d0d (current)
-  ══════════════════════════════════════════════════════════
--->
-
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — slate-blue, readable on light and dark GitHub themes -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1a1a1a&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+business+decisions.;I+don%27t+just+show+you+the+numbers.+I+make+you+feel+them.;Python+%7C+SQL+%7C+PostgreSQL+%7C+End-to-End+Analytics.;Always+asking%3A+%22What+does+the+data+actually+say%3F%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=64748B&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+business+decisions.;I+don%27t+just+show+you+the+numbers.+I+make+you+feel+them.;Python+%7C+SQL+%7C+PostgreSQL+%7C+End-to-End+Analytics.;Always+asking%3A+%22What+does+the+data+actually+say%3F%22" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- CONTACT BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Justine_Gambe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-gambe-615209391/)
 [![GitHub](https://img.shields.io/badge/GitHub-jazzlanders0111--hash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jazzlanders0111-hash)
 [![Email](https://img.shields.io/badge/Email-jazzlanders0111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jazzlanders0111@gmail.com)
@@ -59,29 +34,21 @@ jazz = {
     "location"   : "Philippines 🇵🇭  →  Open to US Remote 🇺🇸",
     "background" : "Licensed Professional Teacher (LPT), Major: English → Data Analyst",
     "focus"      : ["Business Analytics", "Customer Intelligence", "SQL"],
-    "instinct"   : "Systems thinker. I hold the macro while managing the micro.",
-    "superpower" : "I close the gap most analysts leave open — build it, interpret it,\
-                    make people move on it.",
+    "approach"   : "Systems thinker. Macro awareness, micro precision, team-first output.",
 }
 ```
 
-Data is how I process everything — always has been.
+I'm a data analyst who closes the gap most analysts leave open — between building the model and actually moving the business. I think in systems: I hold the big picture and the fine details simultaneously, identify leverage points before committing, and measure success by whether the outcome was right, not whether I was the most visible person in the room.
 
-Before I had the vocabulary for it, I was tracking skill points in NBA 2K14, optimizing rosters, running win-probability calculations in my head. In any game: armor values, damage output, resistance thresholds — I ran the numbers before committing. Off screen, the same logic applied to everyday decisions. Mental simulations, if-this-then-that modeling, ratios everywhere. I just didn't know it was called analytics yet.
+Before analytics, I was a **Licensed Professional Teacher (LPT)** in the Philippines — board exam certified, Major in English. The LPT is a national standard, not a soft credential. It means years of taking genuinely complex material and making it land clearly for any audience. That communication layer is where most analysts fall short. I don't.
 
-In Wild Rift and any MOBA I play, that habit became a full system. I study lane matchups and model counters before a game starts. During it, I'm managing macro objectives and micro execution simultaneously — watching positioning, timing, resource tradeoffs in real time. I review replays afterward to find where the decisions broke down. I main **tank on baron lane** — not because it's the flashy role, but because absorbing pressure and creating space for teammates to perform *is* the carry. I measure success by whether the team wins, not by my own kill count.
-
-That instinct transfers directly. Someone who does the unglamorous pipeline work, writes the documentation, holds the pressure so the team can execute — that's the same role.
-
-Professionally: I'm a **Licensed Professional Teacher (LPT)** in the Philippines — board exam certified, Major in English. The LPT isn't a participation credential. It's a national standard. It means the communication skills are tested and documented, not self-reported. Years of making genuinely complex ideas land for any audience. That's the gap most analysts leave open — they can build the model, but they can't move the room with it. I close that gap.
-
-One end-to-end project built so far. More in progress. Still learning. Always pulling on the next thread.
+One end-to-end project shipped. SQL case studies in progress. Always building.
 
 ---
 
 ## 🛠️ Tech Stack
 
-> *Stack verified directly from project notebooks. Tools listed = tools actively used.*
+> *Verified from project notebooks — every tool listed was actively used.*
 
 **Languages & Querying**
 
@@ -121,7 +88,7 @@ One end-to-end project built so far. More in progress. Still learning. Always pu
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-> *Tableau, Power BI, and R are next on the roadmap.*
+> *Tableau, Power BI, and R — next on the roadmap.*
 
 ---
 
@@ -130,7 +97,7 @@ One end-to-end project built so far. More in progress. Still learning. Always pu
 ### 🛒 End-to-End E-Commerce Analytics Pipeline
 > *34,500 transactions. 7,903 customers. Two years of data. Six questions the business needed answered.*
 
-A six-notebook Python analytics pipeline examining a $5.87M synthetic e-commerce dataset. Each notebook is a different analytical lens on the same business — from raw data to actionable findings.
+A six-notebook Python analytics pipeline examining a $5.87M synthetic e-commerce dataset. Each notebook tackles a different business question on the same data — from raw ingestion to deployable insights.
 
 | Notebook | Question | Key Finding |
 |---|---|---|
@@ -164,18 +131,6 @@ Working through all 8 case studies from Danny Ma's #8WeekSQLChallenge in Postgre
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jazzlanders0111-hash&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=89b4fa&icon_color=a6e3a1&text_color=cdd6f4"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzlanders0111-hash&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4"/>
-
-</div>
-
----
-
 ## 🎯 Currently
 
 ```
@@ -185,6 +140,18 @@ Working through all 8 case studies from Danny Ma's #8WeekSQLChallenge in Postgre
 [░░░░░░░░░░░░░░░░░░░░] Tableau Dashboard — Up next
 [░░░░░░░░░░░░░░░░░░░░] Hotel Booking Python Project — Planned
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jazzlanders0111-hash&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=89b4fa&icon_color=a6e3a1&text_color=cdd6f4"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzlanders0111-hash&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4"/>
+
+</div>
 
 ---
 
@@ -200,5 +167,5 @@ Working through all 8 case studies from Danny Ma's #8WeekSQLChallenge in Postgre
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:606060,70:d0d0d0,100:ffffff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:475569,40:334155,70:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 </div>
