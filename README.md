@@ -34,15 +34,19 @@ jazz = {
     "location"   : "Philippines 🇵🇭  →  Open to US Remote 🇺🇸",
     "background" : "Licensed Professional Teacher (LPT), Major: English → Data Analyst",
     "focus"      : ["Business Analytics", "Customer Intelligence", "SQL"],
-    "approach"   : "Systems thinker. Macro awareness, micro precision, team-first output.",
+    "currently"  : "Building. Learning. Always asking what the data actually says.",
 }
 ```
 
-I'm a data analyst who closes the gap most analysts leave open — between building the model and actually moving the business. I think in systems: I hold the big picture and the fine details simultaneously, identify leverage points before committing, and measure success by whether the outcome was right, not whether I was the most visible person in the room.
+I've been wired this way longer than I've had the vocabulary for it.
 
-Before analytics, I was a **Licensed Professional Teacher (LPT)** in the Philippines — board exam certified, Major in English. The LPT is a national standard, not a soft credential. It means years of taking genuinely complex material and making it land clearly for any audience. That communication layer is where most analysts fall short. I don't.
+Before analytics was a career path I knew existed, I was already doing it — obsessing over player stats, optimizing rosters, running mental simulations on decisions before committing. Any system I was in, I'd break it down: what are the inputs, what moves the output, what's the highest-leverage thing to do right now. That instinct didn't come from a course. It was just how I processed the world.
 
-One end-to-end project shipped. SQL case studies in progress. Always building.
+It carried into how I approach competitive problems too. I study the situation before acting — what's the counter, what are the tradeoffs, what does the macro picture look like versus what needs to happen in the next thirty seconds. I review what went wrong after the fact, not to dwell on it, but to close the gap. And I've always gravitated toward the role that makes the team work — the one that absorbs pressure, creates space, and measures success by whether the outcome was right, not whether I was the most visible person in the result.
+
+Professionally, I'm a **Licensed Professional Teacher (LPT)** in the Philippines — board exam certified, Major in English. The LPT isn't a soft credential. It's a national standard that means my communication skills were tested in front of real people who needed to actually understand, not just nod along. Years of making genuinely complex material land for any audience. That's the part most analysts skip, and the part I've been building since before I knew analytics was the job.
+
+One end-to-end project shipped. More in progress. Still learning. Always curious.
 
 ---
 
@@ -147,9 +151,9 @@ Working through all 8 case studies from Danny Ma's #8WeekSQLChallenge in Postgre
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jazzlanders0111-hash&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=89b4fa&icon_color=a6e3a1&text_color=cdd6f4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jazzlanders0111-hash&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzlanders0111-hash&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzlanders0111-hash&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
