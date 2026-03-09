@@ -1,34 +1,42 @@
 <!--
 =============================================================
-  GITHUB PROFILE README v2 — Justine "Jazz" Gambe
+  GITHUB PROFILE README v3 — Justine "Jazz" Gambe
   Repository: jazzlanders0111-hash/jazzlanders0111-hash
 =============================================================
 -->
 
 <div align="center">
 
-<!-- NEURAL NETWORK STYLE BANNER (dark blue / blue-violet) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:0a0a2e,60:1a0a4a,100:0d1b6e&height=220&section=header&text=Justine%20%22Jazz%22%20Gambe&fontSize=44&fontColor=c0d8ff&fontAlignY=36&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Licensed%20Professional%20Teacher&descAlignY=56&descSize=16&descColor=8ab4f8&animation=fadeIn" width="100%"/>
+<!-- BANNER — white-to-black gradient, waving type -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:d0d0d0,70:606060,100:0d0d0d&height=220&section=header&text=Justine%20%22Jazz%22%20Gambe&fontSize=44&fontColor=0d0d0d&fontAlignY=36&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Licensed%20Professional%20Teacher&descAlignY=56&descSize=16&descColor=2a2a2a&animation=fadeIn" width="100%"/>
 
 <!--
   ══════════════════════════════════════════════════════════
-  UPGRADE TO ANIMATED NEURAL NETWORK BANNER (optional):
+  ALTERNATIVE BANNER OPTIONS (no third-party dependency):
 
-  1. Go to: https://app.haikei.app
-  2. Choose "Animated" → "Blob Scene" or search for particle/network
-  3. Colors: background #0d0d1a, accent #3b6fd4, nodes #89b4fa
-  4. Export as GIF → upload to: assets/neural_banner.gif in your repo
-  5. Replace the <img> above with:
-     <img src="./assets/neural_banner.gif" width="100%" alt="banner"/>
+  Option A — Upload your own image to the repo:
+    1. Add any banner image to assets/banner.png in your repo
+    2. Replace the <img> above with:
+       <img src="./assets/banner.png" width="100%" alt="banner"/>
 
-  Alternative: https://particles.js.org for live neural network effect
-  (works if you turn the README into a GitHub Pages site)
+  Option B — Custom SVG (full control, no service):
+    Create a banner.svg file in your repo with any gradient,
+    text, and shapes you want — no external service needed.
+
+  Option C — github-profile-3d-contrib
+    Generates an animated 3D contribution graph you can use
+    as a banner. Setup: https://github.com/yoshi389111/github-profile-3d-contrib
+
+  Capsule-render color reference:
+    White to black  → color=0:ffffff,100:000000
+    Black to white  → color=0:000000,100:ffffff
+    White to dark   → color=0:ffffff,40:d0d0d0,70:606060,100:0d0d0d (current)
   ══════════════════════════════════════════════════════════
 -->
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=89B4FA&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+business+decisions.;I+don%27t+just+show+you+the+numbers.+I+make+you+feel+them.;Python+%7C+SQL+%7C+PostgreSQL+%7C+End-to-End+Analytics.;Always+asking%3A+%22What+does+the+data+actually+say%3F%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1a1a1a&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+business+decisions.;I+don%27t+just+show+you+the+numbers.+I+make+you+feel+them.;Python+%7C+SQL+%7C+PostgreSQL+%7C+End-to-End+Analytics.;Always+asking%3A+%22What+does+the+data+actually+say%3F%22" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,34 +57,31 @@
 jazz = {
     "name"       : "Justine 'Jazz' Gambe",
     "location"   : "Philippines 🇵🇭  →  Open to US Remote 🇺🇸",
-    "background" : "Licensed Professional Teacher, Major: English → Data Analyst",
+    "background" : "Licensed Professional Teacher (LPT), Major: English → Data Analyst",
     "focus"      : ["Business Analytics", "Customer Intelligence", "SQL"],
-    "curiosity"  : "Always asking 'what does the data say?' — since NBA 2K14",
-    "superpower" : "I don't just show you the numbers. I make you understand them,\
-                    question every counterpoint, and move on what matters.",
+    "instinct"   : "Systems thinker. I hold the macro while managing the micro.",
+    "superpower" : "I close the gap most analysts leave open — build it, interpret it,\
+                    make people move on it.",
 }
 ```
 
-I've always been wired this way. Before analytics was a career, I was deep in NBA 2K14 — obsessively allocating skill points in MyCareer, optimizing roster stats, choosing who to play and why. In any game I played, I'd check armor, magic resistance, damage output before making a move. Outside the screen, I'd calculate ratios in my Facebook feed, run mental simulations on everyday decisions, and treat life situations like models with inputs and outputs. Data was always around me. I just didn't have the name for it yet.
+Data is how I process everything — always has been.
 
-Then I spent years as a Licensed Professional Teacher in the Philippines — board-certified, Major in English, classroom-tested across subjects that demanded I make complex ideas land for any audience. The LPT isn't just a title. It's a national board exam. It means the communication skills aren't self-reported — they were tested, credentialed, and proven in front of real students who needed to actually understand.
+Before I had the vocabulary for it, I was tracking skill points in NBA 2K14, optimizing rosters, running win-probability calculations in my head. In any game: armor values, damage output, resistance thresholds — I ran the numbers before committing. Off screen, the same logic applied to everyday decisions. Mental simulations, if-this-then-that modeling, ratios everywhere. I just didn't know it was called analytics yet.
 
-What I bring to analytics is the full loop: I can build the pipeline, interpret the output, and communicate it in a way that moves people. One project built end-to-end so far. More in progress. Still learning. Always curious.
+In Wild Rift and any MOBA I play, that habit became a full system. I study lane matchups and model counters before a game starts. During it, I'm managing macro objectives and micro execution simultaneously — watching positioning, timing, resource tradeoffs in real time. I review replays afterward to find where the decisions broke down. I main **tank on baron lane** — not because it's the flashy role, but because absorbing pressure and creating space for teammates to perform *is* the carry. I measure success by whether the team wins, not by my own kill count.
 
-<div align="center">
+That instinct transfers directly. Someone who does the unglamorous pipeline work, writes the documentation, holds the pressure so the team can execute — that's the same role.
 
-<!-- CAT MEME — keep it tasteful and professional -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cat typing at keyboard"/>
+Professionally: I'm a **Licensed Professional Teacher (LPT)** in the Philippines — board exam certified, Major in English. The LPT isn't a participation credential. It's a national standard. It means the communication skills are tested and documented, not self-reported. Years of making genuinely complex ideas land for any audience. That's the gap most analysts leave open — they can build the model, but they can't move the room with it. I close that gap.
 
-*me at 2am debugging a subquery*
-
-</div>
+One end-to-end project built so far. More in progress. Still learning. Always pulling on the next thread.
 
 ---
 
 ## 🛠️ Tech Stack
 
-> *Stack verified from project `requirements.txt`. Tableau, Power BI, and R are next on the roadmap.*
+> *Stack verified directly from project notebooks. Tools listed = tools actively used.*
 
 **Languages & Querying**
 
@@ -90,7 +95,6 @@ What I bring to analytics is the full loop: I can build the pipeline, interpret 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-ARIMA-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white)
 
 **Machine Learning**
 
@@ -117,6 +121,8 @@ What I bring to analytics is the full loop: I can build the pipeline, interpret 
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+> *Tableau, Power BI, and R are next on the roadmap.*
+
 ---
 
 ## 📂 Projects
@@ -135,9 +141,9 @@ A six-notebook Python analytics pipeline examining a $5.87M synthetic e-commerce
 | NB05 — Fraud Detection | Who is gaming the system? | $96,822 exposure. 232 High/Critical customers flagged across 3 independent methods. |
 | NB06 — Cohort Retention | What is a new customer worth? | M+1 retention 15.2%. HVAR LTV $2,237 = 3.45× Loyal. One structural onboarding gap identified. |
 
-**Stack:** Python · pandas · NumPy · scikit-learn · XGBoost · statsmodels · scipy · scikit-posthocs · Pandera · pytest · Plotly · Matplotlib · seaborn · PyArrow · PyYAML · dask · Jupyter
+**Stack:** Python · pandas · NumPy · scikit-learn · XGBoost · statsmodels · scipy · scikit-posthocs · Pandera · pytest · Plotly · Matplotlib · seaborn · PyArrow · PyYAML · Jupyter
 
-[![View Project](https://img.shields.io/badge/View_Project-end--to--end--ecommerce-89b4fa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jazzlanders0111-hash/end-to-end-ecommerce-analytics-project)
+[![View Project](https://img.shields.io/badge/View_Project-end--to--end--ecommerce-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jazzlanders0111-hash/end-to-end-ecommerce-analytics-project)
 
 ---
 
@@ -154,7 +160,7 @@ Working through all 8 case studies from Danny Ma's #8WeekSQLChallenge in Postgre
 
 **Stack:** PostgreSQL · pgAdmin · CTEs · Window Functions · Subqueries · Set Operations · Anti-joins
 
-[![View Project](https://img.shields.io/badge/View_Project-SQL--Case--Studies-89b4fa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jazzlanders0111-hash/SQL-Week-Challenge-8-Case-Study-Projects-)
+[![View Project](https://img.shields.io/badge/View_Project-SQL--Case--Studies-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jazzlanders0111-hash/SQL-Week-Challenge-8-Case-Study-Projects-)
 
 ---
 
@@ -165,13 +171,6 @@ Working through all 8 case studies from Danny Ma's #8WeekSQLChallenge in Postgre
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jazzlanders0111-hash&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=89b4fa&icon_color=a6e3a1&text_color=cdd6f4"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzlanders0111-hash&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4"/>
-
-</div>
-
-<div align="center">
-
-<!-- FIXED STREAK STATS — herokuapp is more stable than demolab -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jazzlanders0111-hash&theme=catppuccin-mocha&hide_border=true&background=0d1117&ring=89b4fa&fire=f38ba8&currStreakLabel=89b4fa&sideLabels=cdd6f4&dates=a6adc8" alt="GitHub Streak"/>
 
 </div>
 
@@ -198,10 +197,8 @@ Working through all 8 case studies from Danny Ma's #8WeekSQLChallenge in Postgre
 
 *Open to remote Data Analyst roles. US timezone flexible.*
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" alt="waving cat"/>
-
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b6e,50:1a0a4a,100:0d0d1a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:606060,70:d0d0d0,100:ffffff&height=100&section=footer" width="100%"/>
 </div>
