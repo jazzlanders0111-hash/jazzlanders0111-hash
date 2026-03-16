@@ -59,7 +59,10 @@ Everyone uses the Olist e-commerce dataset. I went for the marketing funnel side
 ## 🎓 Certifications
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/ce9af939-9f60-4ec2-82be-5b2011c3987b" width="600"/>
+<img src="https://github.com/user-attachments/assets/5b7ef429-8e3e-48e0-89bd-b51c9a5a7c2b" width="500"/>
+</div>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ce9af939-9f60-4ec2-82be-5b2011c3987b" width="500"/>
 </div>
 
 ---
@@ -147,7 +150,7 @@ jazz = {
 ```
 
 Before I ever knew data analytics existed as a career, I was already
-doing it in my own way — breaking down systems, tracking patterns,
+doing it in my own way, where I break down systems, tracking patterns,
 asking what the numbers actually meant. That instinct wasn't learned.
 It was just how I processed things.
 
