@@ -66,7 +66,7 @@ Most people who use Olist data go straight for the e-commerce orders side. I wen
 ## 🎓 Certifications
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/ce9af939-9f60-4ec2-82be-5b2011c3987b" width="200"/>
+<img src="https://github.com/user-attachments/assets/ce9af939-9f60-4ec2-82be-5b2011c3987b" width="400"/>
 </div>
 
 ---
