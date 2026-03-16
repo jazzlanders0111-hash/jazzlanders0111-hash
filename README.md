@@ -1,6 +1,6 @@
 <!--
 =============================================================
-  GITHUB PROFILE README v6 — Justine "Jazz" Gambe
+  GITHUB PROFILE README v6 · Justine "Jazz" Gambe
   Repository: jazzlanders0111-hash/jazzlanders0111-hash
 =============================================================
 -->
@@ -27,18 +27,18 @@
 ## 📂 Projects
 
 ### 🛒 End-to-End E-Commerce Analytics Pipeline
-> *34,500 transactions. 7,903 customers. Two years of data. Six questions the business actually needed answered.*
+> *34,500 transactions. 7,903 customers. Two years of data. Six different business problems, one dataset.*
 
-I built this when I was still figuring out what kind of analyst I wanted to be. Six notebooks, one dataset, different business question each time. I didn't just run the models and move on — I questioned every result, documented where the data hit its ceiling honestly, and made sure the findings connected back to something a real business could act on.
+Built this from scratch. The goal was simple: help a business understand what is actually going on with their data, from spotting the anomalies all the way to figuring out what is driving their performance and what is hurting it. Six notebooks, each attacking a different problem, because e-commerce is complex and you cannot just look at one angle and call it done. Every result I questioned, every insight I made sure connected to something the business could actually act on. Not just numbers for the sake of numbers.
 
 | Notebook | Question | Key Finding |
 |---|---|---|
-| NB01 — Data Engineering | Can we trust the data? | 17 behavioural features engineered. Median order $56.82 vs mean $170 — 3x gap from outlier skew. |
-| NB02 — Sales & Forecasting | What drives revenue? | Electronics = 56.6% (structural risk). ARIMA MAPE 12.21%. Discounts net-positive: +75.1% LTV. |
-| NB03 — Segmentation | Who are the customers? | k-means (k=4, bootstrap ARI=0.939). HVAR: 6% of customers, 24.7% of revenue. |
-| NB04 — Churn Prediction | Who is about to leave? | ROC-AUC 0.498 — data ceiling documented honestly. Return behaviour = 52.7% of model signal. |
-| NB05 — Fraud Detection | Who is gaming the system? | $96,822 exposure. 232 High/Critical customers flagged across 3 independent methods. |
-| NB06 — Cohort Retention | What is a new customer worth? | M+1 retention 15.2%. HVAR LTV $2,237 = 3.45x Loyal. One structural onboarding gap identified. |
+| NB01 - Data Engineering | Can we trust the data? | 17 behavioural features engineered. Median order $56.82 vs mean $170, 3x gap from outlier skew. |
+| NB02 - Sales & Forecasting | What drives revenue? | Electronics = 56.6% (structural risk). ARIMA MAPE 12.21%. Discounts net-positive: +75.1% LTV. |
+| NB03 - Segmentation | Who are the customers? | k-means (k=4, bootstrap ARI=0.939). HVAR: 6% of customers, 24.7% of revenue. |
+| NB04 - Churn Prediction | Who is about to leave? | ROC-AUC 0.498, data ceiling documented honestly. Return behaviour = 52.7% of model signal. |
+| NB05 - Fraud Detection | Who is gaming the system? | $96,822 exposure. 232 High/Critical customers flagged across 3 independent methods. |
+| NB06 - Cohort Retention | What is a new customer worth? | M+1 retention 15.2%. HVAR LTV $2,237 = 3.45x Loyal. One structural onboarding gap identified. |
 
 **Stack:** Python · pandas · NumPy · scikit-learn · XGBoost · statsmodels · scipy · scikit-posthocs · Pandera · pytest · Plotly · Matplotlib · seaborn · PyArrow · PyYAML · Jupyter
 
@@ -49,12 +49,12 @@ I built this when I was still figuring out what kind of analyst I wanted to be. 
 ### 📊 From Lead to Seller: Olist B2B Sales Funnel Analysis
 > *8,000 leads. 842 closed deals. One question: what does it actually take to convert a seller?*
 
-Most people who use Olist data go straight for the e-commerce orders side. I went the other way — the marketing funnel, which is the less talked about half of the dataset. This one is about how Olist acquires sellers, not how sellers acquire customers. I cleaned the data, built the analysis in PostgreSQL from scratch, and tried to answer the questions a marketing or sales manager would actually care about: which channels are worth the spend, which seller types close fastest, and who on the sales team is carrying the load.
+Everyone uses the Olist e-commerce dataset. I went for the marketing funnel side instead because I wanted to analyze something most people skip. E-commerce is already complex enough to follow up on given how many things are moving at once, so I focused on a different angle: how does Olist actually bring sellers onto their platform, which channels are worth the investment, which seller types close fast, and who on the sales team is doing the heavy lifting. Built and analyzed entirely in PostgreSQL, from cleaning to findings.
 
 | Section | Focus | Key Finding |
 |---|---|---|
 | Funnel Overview | Overall health | 10.53% overall conversion. Feb-Mar 2018 cohorts converted best at 14%+ |
-| Lead Source Analysis | Channel quality | Direct traffic converts well (11.22%) and closes fast (31 days) — best overall channel |
+| Lead Source Analysis | Channel quality | Direct traffic converts well (11.22%) and closes fast (31 days), best overall channel |
 | Sales Performance | Speed and team | Average 48.5 days to close. Top SDR closed 73% more deals than 2nd place |
 
 **Stack:** PostgreSQL · pgAdmin · CTEs · Window Functions · TEMP TABLEs · Date arithmetic · Cohort analysis
@@ -65,8 +65,12 @@ Most people who use Olist data go straight for the e-commerce orders side. I wen
 
 ## 🎓 Certifications
 
+| Certification | Issuer | Date |
+|---|---|---|
+| Associate Data Analyst | DataCamp | March 16, 2026 |
+
 <div align="center">
-<img src="https://github.com/user-attachments/assets/ce9af939-9f60-4ec2-82be-5b2011c3987b" width="500"/>
+<img src="https://github.com/user-attachments/assets/ce9af939-9f60-4ec2-82be-5b2011c3987b" width="600"/>
 </div>
 
 ---
@@ -74,11 +78,11 @@ Most people who use Olist data go straight for the e-commerce orders side. I wen
 ## 🎯 Currently
 
 ```
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] E-Commerce Analytics Pipeline       — Complete ✓
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] Olist B2B Sales Funnel Analysis     — Complete ✓
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] DataCamp Associate Data Analyst     — Certified ✓
-[░░░░░░░░░░░░░░░░░░░░] Tableau Dashboard                   — Up next
-[░░░░░░░░░░░░░░░░░░░░] Applying                            — Soon
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] E-Commerce Analytics Pipeline       - Complete ✓
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] Olist B2B Sales Funnel Analysis     - Complete ✓
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] DataCamp Associate Data Analyst     - Certified ✓
+[░░░░░░░░░░░░░░░░░░░░] Tableau Dashboard                   - Up next
+[░░░░░░░░░░░░░░░░░░░░] Applying                            - Soon
 ```
 
 ---
@@ -123,7 +127,7 @@ Most people who use Olist data go straight for the e-commerce orders side. I wen
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-> *Tableau and Power BI — next on the roadmap.*
+> *Tableau and Power BI, next on the roadmap.*
 
 ---
 
@@ -153,15 +157,35 @@ jazz = {
 }
 ```
 
-I've been wired this way longer than I've had the vocabulary for it.
+Before I ever knew data analytics existed as a career, I was already
+doing it in my own way — breaking down systems, tracking patterns,
+asking what the numbers actually meant. That instinct wasn't learned.
+It was just how I processed things.
 
-Before analytics was a career path I knew existed, I was already doing it — obsessing over player/team stats in any sports, optimizing my situations, running mental simulations on decisions before committing. Any system I was in, I'd break it down: what are the inputs, what moves the output, what's the highest-leverage thing to do right now. That instinct didn't come from a course. It was just how I processed the world.
+It carried into everything I touched. When I make music, I'm checking
+the volume levels, the filters, the reverb, the LFO, every minor detail
+of the sound until it feels right. In games, I gravitate toward the
+baron lane as a tank or bruiser, not because it's flashy, but because
+absorbing pressure and creating space for teammates to do their job is
+the role that actually wins. I get obsessive about what I care about,
+and once something clicks I go all the way in.
 
-It carried into how I approach competitive problems too especially in any kind of games. I study the situation before acting — what's the counter, what are the tradeoffs, what does the macro picture look like versus what needs to happen in the next thirty seconds. I review what went wrong after the fact, not to dwell on it, but to close the gap. And I've always gravitated toward the role that makes the team work — the one that absorbs pressure, creates space, and measures success by whether the outcome was right, not whether I was the most visible person in the result.
+Analytics hit that same nerve because it combines two things I genuinely
+enjoy: figuring out how a system works, and explaining what I found in
+a way that actually lands with whoever is listening.
 
-Professionally, I'm a **Licensed Professional Teacher (LPT)** in the Philippines — board exam certified, Major in English. The LPT isn't a soft credential. It's a national standard that means my communication skills were tested in front of real people who needed to actually understand, not just nod along. Years of translating complicated material into something any audience could actually understand and use. That's the part most analysts skip, and the part I've been building since before I knew analytics was the job.
+That second part is where the teaching background comes in. I'm a
+Licensed Professional Teacher (LPT) in the Philippines, board certified,
+Major in English. For years I translated complicated material for people
+who had no prior context for it, in real time, in front of real people
+who needed to actually understand, not just nod along. Most analysts
+with strong technical skills never built that muscle. I started there.
 
-Two projects shipped. A certification earned. The learning doesn't stop — that part never left from teaching. Always curious.
+I hold myself to a high standard on everything I put out. I don't move
+on until the logic holds and I'm comfortable defending every decision.
+That's just how I'm wired.
+
+I keep learning every day, even the minor details. That part never stops.
 
 ---
 
