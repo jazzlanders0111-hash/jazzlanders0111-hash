@@ -1,13 +1,13 @@
 <!--
 =============================================================
-  GITHUB PROFILE README v5 — Justine "Jazz" Gambe
+  GITHUB PROFILE README v6 — Justine "Jazz" Gambe
   Repository: jazzlanders0111-hash/jazzlanders0111-hash
 =============================================================
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e293b,70:334155,100:475569&height=220&section=header&text=Justine%20%22Jazz%22%20Gambe&fontSize=44&fontColor=f1f5f9&fontAlignY=36&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Licensed%20Professional%20Teacher&descAlignY=56&descSize=16&descColor=cbd5e1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=220&section=header&text=Justine%20%22Jazz%22%20Gambe&fontSize=44&fontColor=f1f5f9&fontAlignY=36&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Licensed%20Professional%20Teacher&descAlignY=56&descSize=16&descColor=cbd5e1&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=64748B&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+business+decisions.;I+don%27t+just+show+you+the+numbers.+I+make+you+feel+them.;Python+%7C+SQL+%7C+PostgreSQL+%7C+End-to-End+Analytics.;Always+asking%3A+%22What+does+the+data+actually+say%3F%22" alt="Typing SVG" />
@@ -27,18 +27,18 @@
 ## 📂 Projects
 
 ### 🛒 End-to-End E-Commerce Analytics Pipeline
-> *34,500 transactions. 7,903 customers. Two years of data. Six questions the business needed answered.*
+> *34,500 transactions. 7,903 customers. Two years of data. Six questions the business actually needed answered.*
 
-A six-notebook Python analytics pipeline examining a $5.87M synthetic e-commerce dataset. Each notebook tackles a different business question on the same data — from raw ingestion to deployable insights.
+I built this when I was still figuring out what kind of analyst I wanted to be. Six notebooks, one dataset, different business question each time. I didn't just run the models and move on — I questioned every result, documented where the data hit its ceiling honestly, and made sure the findings connected back to something a real business could act on.
 
 | Notebook | Question | Key Finding |
 |---|---|---|
-| NB01 — Data Engineering | Can we trust the data? | 17 behavioural features engineered. Median order $56.82 vs mean $170 — 3× gap from outlier skew. |
+| NB01 — Data Engineering | Can we trust the data? | 17 behavioural features engineered. Median order $56.82 vs mean $170 — 3x gap from outlier skew. |
 | NB02 — Sales & Forecasting | What drives revenue? | Electronics = 56.6% (structural risk). ARIMA MAPE 12.21%. Discounts net-positive: +75.1% LTV. |
 | NB03 — Segmentation | Who are the customers? | k-means (k=4, bootstrap ARI=0.939). HVAR: 6% of customers, 24.7% of revenue. |
 | NB04 — Churn Prediction | Who is about to leave? | ROC-AUC 0.498 — data ceiling documented honestly. Return behaviour = 52.7% of model signal. |
 | NB05 — Fraud Detection | Who is gaming the system? | $96,822 exposure. 232 High/Critical customers flagged across 3 independent methods. |
-| NB06 — Cohort Retention | What is a new customer worth? | M+1 retention 15.2%. HVAR LTV $2,237 = 3.45× Loyal. One structural onboarding gap identified. |
+| NB06 — Cohort Retention | What is a new customer worth? | M+1 retention 15.2%. HVAR LTV $2,237 = 3.45x Loyal. One structural onboarding gap identified. |
 
 **Stack:** Python · pandas · NumPy · scikit-learn · XGBoost · statsmodels · scipy · scikit-posthocs · Pandera · pytest · Plotly · Matplotlib · seaborn · PyArrow · PyYAML · Jupyter
 
@@ -49,12 +49,12 @@ A six-notebook Python analytics pipeline examining a $5.87M synthetic e-commerce
 ### 📊 From Lead to Seller: Olist B2B Sales Funnel Analysis
 > *8,000 leads. 842 closed deals. One question: what does it actually take to convert a seller?*
 
-A self-directed PostgreSQL analysis of Olist's real B2B marketing funnel dataset. Less common than the typical Olist e-commerce projects — this one focuses on the seller acquisition side: which channels convert best, which segments close fastest, and how the sales team performs.
+Most people who use Olist data go straight for the e-commerce orders side. I went the other way — the marketing funnel, which is the less talked about half of the dataset. This one is about how Olist acquires sellers, not how sellers acquire customers. I cleaned the data, built the analysis in PostgreSQL from scratch, and tried to answer the questions a marketing or sales manager would actually care about: which channels are worth the spend, which seller types close fastest, and who on the sales team is carrying the load.
 
 | Section | Focus | Key Finding |
 |---|---|---|
 | Funnel Overview | Overall health | 10.53% overall conversion. Feb-Mar 2018 cohorts converted best at 14%+ |
-| Lead Source Analysis | Channel quality | Direct traffic converts well (11.22%) AND closes fast (31 days) — best overall channel |
+| Lead Source Analysis | Channel quality | Direct traffic converts well (11.22%) and closes fast (31 days) — best overall channel |
 | Sales Performance | Speed and team | Average 48.5 days to close. Top SDR closed 73% more deals than 2nd place |
 
 **Stack:** PostgreSQL · pgAdmin · CTEs · Window Functions · TEMP TABLEs · Date arithmetic · Cohort analysis
@@ -68,6 +68,10 @@ A self-directed PostgreSQL analysis of Olist's real B2B marketing funnel dataset
 | Certification | Issuer | Date |
 |---|---|---|
 | Associate Data Analyst | DataCamp | March 16, 2026 |
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ce9af939-9f60-4ec2-82be-5b2011c3987b" width="600"/>
+</div>
 
 ---
 
@@ -131,10 +135,11 @@ A self-directed PostgreSQL analysis of Olist's real B2B marketing funnel dataset
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jazzlanders0111-hash&theme=github_dark" width="100%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jazzlanders0111-hash&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jazzlanders0111-hash&theme=github_dark" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jazzlanders0111-hash&theme=github_dark" height="180em"/>
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzlanders0111-hash&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -177,5 +182,5 @@ Two projects shipped. A certification earned. The learning doesn't stop — that
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:475569,40:334155,70:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,50:161B22,100:0D1117&height=100&section=footer" width="100%"/>
 </div>
