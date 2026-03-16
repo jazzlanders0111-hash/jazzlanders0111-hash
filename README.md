@@ -1,10 +1,3 @@
-<!--
-=============================================================
-  GITHUB PROFILE README v6 · Justine "Jazz" Gambe
-  Repository: jazzlanders0111-hash/jazzlanders0111-hash
-=============================================================
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=220&section=header&text=Justine%20%22Jazz%22%20Gambe&fontSize=44&fontColor=f1f5f9&fontAlignY=36&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Licensed%20Professional%20Teacher&descAlignY=56&descSize=16&descColor=cbd5e1&animation=fadeIn" width="100%"/>
@@ -64,10 +57,6 @@ Everyone uses the Olist e-commerce dataset. I went for the marketing funnel side
 ---
 
 ## 🎓 Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Associate Data Analyst | DataCamp | March 16, 2026 |
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/ce9af939-9f60-4ec2-82be-5b2011c3987b" width="600"/>
