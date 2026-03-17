@@ -173,15 +173,35 @@ jazz = {
 }
 ```
 
-I get obsessive about the things I care about. Once something clicks for me, I go all the way in, I don't do things halfway. Analytics hit that nerve for me because it combines two things I genuinely enjoy: figuring out how systems work and explaining what I found to other people in a way that actually lands.
+Before I ever knew data analytics existed as a career, I was already
+doing it in my own way — breaking down systems, tracking patterns,
+asking what the numbers actually meant. That instinct wasn't learned.
+It was just how I processed things.
 
-I'm also a perfectionist, which is both a strength and a problem. I don't stop until it's clean, until the logic holds, until I'd be comfortable defending every decision. I'm afraid of putting out work with flaws in it, so I check things more times than most people would. The downside is I procrastinate on things I already know how to do, like once the hard part is solved my brain checks out. I'm aware of it. Working on it.
+It carried into everything I touched. When I make music, I'm checking
+the volume levels, the filters, the reverb, the LFO, every minor detail
+of the sound until it feels right. In games, I gravitate toward the
+baron lane as a tank or bruiser, not because it's flashy, but because
+absorbing pressure and creating space for teammates to do their job is
+the role that actually wins. I get obsessive about what I care about,
+and once something clicks I go all the way in.
 
-The teaching background matters more than it sounds. I'm a **Licensed Professional Teacher (LPT)** in the Philippines, board certified, Major in English. That means I spent years figuring out how to take something complicated and make it make sense to someone who had no context for it. That's not a soft skill. That's the whole job of presenting data to stakeholders, and most people with the technical background never learned how to do it well.
+Analytics hit that same nerve because it combines two things I genuinely
+enjoy: figuring out how a system works, and explaining what I found in
+a way that actually lands with whoever is listening.
 
-I work even when there's no reward in it, as long as I can point to something I built on my own when it's done. That's enough for me.
+That second part is where the teaching background comes in. I'm a
+Licensed Professional Teacher (LPT) in the Philippines, board certified,
+Major in English. For years I translated complicated material for people
+who had no prior context for it, in real time, in front of real people
+who needed to actually understand, not just nod along. Most analysts
+with strong technical skills never built that muscle. I started there.
 
-Two projects shipped. A certification earned. Not stopping here.
+I hold myself to a high standard on everything I put out. I don't move
+on until the logic holds and I'm comfortable defending every decision.
+That's just how I'm wired.
+
+I keep learning every day, even the minor details. That part never stops.
 
 ---
 
