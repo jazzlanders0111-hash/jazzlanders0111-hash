@@ -201,7 +201,7 @@ I hold myself to a high standard on everything I put out. I don't move
 on until the logic holds and I'm comfortable defending every decision.
 That's just how I'm wired.
 
-I keep learning every day, even the minor details. That part never stops.
+I keep learning every day, even the minor details. That part of me never stops.
 
 ---
 
