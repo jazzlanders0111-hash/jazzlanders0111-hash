@@ -26,7 +26,7 @@
 | 3 | **End-to-End E-Commerce Analytics Pipeline** | Six business problems on one dataset: sales forecasting, customer segmentation, churn prediction, fraud detection, and cohort retention. 34,500 transactions, 7,903 customers. | Python · scikit-learn · XGBoost · statsmodels · Plotly | [→ repo](https://github.com/jazzlanders0111-hash/end-to-end-ecommerce-analytics-project) |
 | 4 | **Pay Equity Analysis** | Raw gender pay gap is 31.4%. After controlling for job level, tenure, and contract type via OLS regression, 90.2% of that gap disappears. The remaining $1,973 is statistically significant at p=0.0098. | PostgreSQL · Python · statsmodels | [→ repo](https://github.com/jazzlanders0111-hash/Pay-Equity-Analysis) |
 | 5 | **HR Employee Attrition Analysis** | 1,470 employees, 16.12% left. Overtime employees leave at 3x the rate of others. Risk scoring model: employees with 5 risk factors leave at 81.82%, those with none at 6.60%. | PostgreSQL | [→ repo](https://github.com/jazzlanders0111-hash/HR-Employee-Attrition-Analysis) |
-| 6 | **Olist B2B Sales Funnel Analysis** | 8,000 leads, 842 closed deals, 10.53% conversion. Which channels close fastest, which SDRs outperform, and why the Feb-Mar 2018 cohorts converted at 14%+ while others averaged 10%. | PostgreSQL | [→ repo](https://github.com/jazzlanders0111-hash/Olist-B2B-Sales-Funnel-Analysis) |
+| 6 | **Olist B2B Sales Funnel Analysis** | 8,000 leads, 842 closed deals, 10.53% conversion. Which channels close fastest, which SDRs outperform, and why the Feb-Mar 2018 cohorts converted at 14%+ while others averaged 10%. | PostgreSQL · Tableau | [→ repo](https://github.com/jazzlanders0111-hash/Olist-B2B-Sales-Funnel-Analysis) |
 
 ---
 
