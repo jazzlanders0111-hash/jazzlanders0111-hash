@@ -55,7 +55,7 @@
 
 **ML:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
 
-**Viz:** ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![seaborn](https://img.shields.io/badge/seaborn-4C9BE8?style=flat-square&logo=python&logoColor=white)
+**Viz:** ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![seaborn](https://img.shields.io/badge/seaborn-4C9BE8?style=flat-square&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Engineering:** ![Pandera](https://img.shields.io/badge/Pandera-00B37E?style=flat-square&logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![PyArrow](https://img.shields.io/badge/PyArrow-E25822?style=flat-square&logo=apache&logoColor=white)
 
