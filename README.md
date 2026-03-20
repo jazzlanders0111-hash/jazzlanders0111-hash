@@ -21,7 +21,7 @@
 
 | # | Project | What it answers | Stack | Link |
 |---|---|---|---|---|
-| 1 | **NYC Yellow Taxi: Congestion Pricing Analysis** | Did NYC's $0.75 CBD fee actually deter yellow taxi demand? 8 notebooks, 3.2M trips, DiD comparison vs January 2024. Short answer: no. | Python · pandas · Plotly · SciPy | [→ repo](https://github.com/jazzlanders0111-hash/NYC-Yellow-Taxi-Congestion-Pricing-Analysis) |
+| 1 | **NYC Yellow Taxi: Congestion Pricing Analysis** | Did NYC's $0.75 CBD fee actually deter yellow taxi demand? 8 notebooks, 3.2M trips, DiD comparison vs January 2024. Short answer: no. | Python · pandas · Plotly · SciPy · Tableau | [→ repo](https://github.com/jazzlanders0111-hash/NYC-Yellow-Taxi-Congestion-Pricing-Analysis) |
 | 2 | **Global Oil Market Analysis** | How does the global oil market work and who controls it? 60 years of prices, OPEC's declining power, US shale's rise, and why inventory data can't predict prices. | Python · pandas · Plotly · SciPy | [→ repo](https://github.com/jazzlanders0111-hash/Global-Oil-Market-Analysis) |
 | 3 | **End-to-End E-Commerce Analytics Pipeline** | Six business problems on one dataset: sales forecasting, customer segmentation, churn prediction, fraud detection, and cohort retention. 34,500 transactions, 7,903 customers. | Python · scikit-learn · XGBoost · statsmodels · Plotly | [→ repo](https://github.com/jazzlanders0111-hash/end-to-end-ecommerce-analytics-project) |
 | 4 | **Pay Equity Analysis** | Raw gender pay gap is 31.4%. After controlling for job level, tenure, and contract type via OLS regression, 90.2% of that gap disappears. The remaining $1,973 is statistically significant at p=0.0098. | PostgreSQL · Python · statsmodels | [→ repo](https://github.com/jazzlanders0111-hash/Pay-Equity-Analysis) |
